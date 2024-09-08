@@ -62,7 +62,7 @@
     }
 
     img {
-        height: 32vh;
+        height: 200px;
         width: auto;
         display: block;
         margin-top: 10px;
